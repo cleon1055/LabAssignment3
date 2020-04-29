@@ -1,0 +1,12 @@
+.row-one,
+.row-two,
+.row-three {
+    display: grid;
+    grid-template-columns: 2fr 5fr 2fr;
+}
+
+.row-two {
+    background-color: #7d84a5;
+}
+
+.row-three {}
